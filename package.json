@@ -18,5 +18,8 @@
   "homepage": "https://github.com/skeown13/nodeFarm_p#readme",
   "dependencies": {
     "slugify": "^1.4.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
   }
 }
